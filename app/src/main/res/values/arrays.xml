@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises">
+        <item>Perú</item>
+        <item>Brasil</item>
+        <item>Colombia</item>
+        <item>Chile</item>
+    </string-array>
+    <string-array name="departamentos">
+        <item>Cusco</item>
+        <item>Rio</item>
+        <item>Cali</item>
+        <item>Santiago</item>
+    </string-array>
+    <string-array name="distritos">
+        <item>Wanchaq</item>
+        <item>San Sebastian</item>
+        <item>Santiago</item>
+        <item>San Blas</item>
+    </string-array>
+    <string-array name="anexos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
